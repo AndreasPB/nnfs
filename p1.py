@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Part 1
+# # Part 1 - Intro and Neuron Code
 # https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 # %%
 inputs = [1.2, 5.1, 2.1]
