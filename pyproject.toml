@@ -5,7 +5,9 @@ description = "Following Sentex's NNFS book/video course"
 authors = ["AndreasPB <andreas.p.brodersen@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
+jupyter = "^1.0.0"
+jupyter-ascending = "^0.1.23"
 
 [tool.poetry.dev-dependencies]
 
